@@ -1,0 +1,23 @@
+{
+  "name": "Test 1",
+  "dockerComposeFile": [
+    "docker-compose.yml"
+  ],
+  "service": "devcontainer",
+  "workspaceFolder": "/workspace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "Gruntfuggly.todo-tree",
+        "redhat.vscode-yaml",
+        "redhat.vscode-xml",
+        "ms-azuretools.vscode-docker",
+        "mechatroner.rainbow-csv",
+        "vmware.vscode-boot-dev-pack",
+        "eamodio.gitlens",
+        "redhat.fabric8-analytics"
+      ]
+    }
+  }
+}
