@@ -16,7 +16,8 @@
         "mechatroner.rainbow-csv",
         "vmware.vscode-boot-dev-pack",
         "eamodio.gitlens",
-        "redhat.fabric8-analytics"
+        "redhat.fabric8-analytics",
+        "vscjava.vscode-gradle"
       ]
     }
   }
